@@ -1,3 +1,5 @@
+# Topics covered in this part.
+
 Complete understanding of linear regression and regularization techniques
 
 a. Lasso
