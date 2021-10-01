@@ -1,10 +1,9 @@
 from flask import Flask, jsonify, request
 import numpy as np
-from sklearn.externals import joblib
 import pandas as pd
 import numpy as np
 from sklearn import linear_model
-from sklearn.externals import joblib
+import joblib
 from bs4 import BeautifulSoup
 import re
 from sklearn.feature_extraction.text import CountVectorizer
