@@ -95,7 +95,7 @@ tornado==6.1
 tqdm==4.60.0
 traitlets==5.0.5
 typing-extensions==3.10.0.0
-urllib3==1.26.4
+urllib3>=1.26.4
 virtualenv==20.4.3
 virtualenv-clone==0.5.4
 visions==0.7.1
